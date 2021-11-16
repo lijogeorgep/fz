@@ -1,0 +1,19 @@
+import 'dart:io'
+
+import 'package:flutter/material.dart'
+import 'package:flutter_sqlite/models/data_model.dart'
+import 'package:image_picker/image_picker.dart'
+
+class FormHelper {
+  static Widget textInput(
+    BuildContext context,
+    Object initialValue,
+    Function onChanged, {
+    bool isTextArea = false,
+    bool isNumberInput = false,
+    Function onValidate,
+    Widget prefixIcon,
+    Widget suffixIcon,
+  }) {
+    return TextFormField(
+  

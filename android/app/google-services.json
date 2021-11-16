@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303128811519",
+    "project_id": "fitness-zone-2ea7e",
+    "storage_bucket": "fitness-zone-2ea7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303128811519:android:643dafef85fd3c24d4b9ca",
+        "android_client_info": {
+          "package_name": "com.example.fitness_zone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303128811519-kt1hic0nrl4jo11r3jqhkgvpv7v90qtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmog3a_EbS9L0Yj-igACHDSpkLkUbWaCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303128811519-kt1hic0nrl4jo11r3jqhkgvpv7v90qtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
